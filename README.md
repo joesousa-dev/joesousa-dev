@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joesousa-dev, but you can call me only Joel.
 - 👀 I’m interested in programming in C, Java, Python and another ones that are useful in the web and apps. 
-- 🌱 I’m currently learning C, Java and wish learning Flutter.
-- 💞️ I’m looking to collaborate on projects and teams in the Federal University of Ceara.
+- 🌱 I’m currently learning C, Java and wish learning Javascript.
+- 💞️ I’m looking for collaborating on projects and teams at Federal University of Ceara.
 - 📫 How to reach me, well you can contact me here, by other hand you can send me a email to joe_sousa@alu.ufc.br
 
 <!---
